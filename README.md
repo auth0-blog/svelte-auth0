@@ -5,6 +5,8 @@ It is a simple task list manager using the Svelte framework and Auth0. Users wil
 
 To see how to build this yourself, be sure to [check out the full tutorial](https://auth0.com/blog/authenticating-svelte-apps).
 
+![Svelte Welcome Screen](https://cdn.auth0.com/blog/svelte-authentication/svelte-app-home.png)
+
 ## Get started
 
 Clone the repo:
